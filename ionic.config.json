@@ -1,5 +1,7 @@
 {
   "name": "HappyApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
